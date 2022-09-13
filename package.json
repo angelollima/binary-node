@@ -1,0 +1,22 @@
+{
+  "name": "binary-node",
+  "version": "1.0.0",
+  "description": "convert all characters to binary!",
+  "main": "main.cjs",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelollima/binary-node.git"
+  },
+  "keywords": [
+    "binary"
+  ],
+  "author": "angelollima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelollima/binary-node/issues"
+  },
+  "homepage": "https://github.com/angelollima/binary-node#readme"
+}
