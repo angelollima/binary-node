@@ -1,7 +1,7 @@
 {
   "name": "binary-node",
-  "version": "1.0.0",
-  "description": "convert all characters to binary!",
+  "version": "1.0.2",
+  "description": "convert all characters to binary and binary to characters!",
   "main": "main.cjs",
   "scripts": {
     "test": "echo \"No test specified\""
