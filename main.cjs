@@ -75,8 +75,12 @@ const main = function() {
         else if (options === '1') {
             recursiveReadLine()
         }
-        else {
+        else if (options === '2') {
             recursiveReadLineBinary()
+        }
+        else {
+            console.log("Please any of the above")
+            main()
         }
     })
 }
