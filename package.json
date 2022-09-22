@@ -1,6 +1,6 @@
 {
   "name": "binary-node",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "convert all characters to binary and binary to characters!",
   "main": "main.cjs",
   "scripts": {
